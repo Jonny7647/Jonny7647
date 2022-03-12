@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jonny's_CODE&fontSize=90)
 
 <!--
 **Jonny7647/Jonny7647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
