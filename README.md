@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jonny's_CODE&fontSize=90)
 
 
-## Wecome to Joony's Code
-- 🌱 I’m currently learning : va, Solidity, Blockchain
-- 💬 Fun fact: I majored in electronics, but I like to study blockchain.
-- 😄 Pronouns: Jonny, UEG ..
+## 🌱Wecome to Joony's Code
+- 🔭 I’m currently learning : <Code>Java</Code>,<Code>Solidity</Code>, <Code>Blockchain</Code>
+- 💬 Fun fact: I majored in electronics, but I like to study <Code>blockchain</Code>
+- 😄 Pronouns: <Code>Jonny</Code>, <Code>UEG</Code>
 <br>
 
 <a href="https://github.com/Jonny7647"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jonny7647&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Jonny's github stats" /></a>
@@ -25,7 +25,7 @@
 
 <br>
 
-## Connect with me:
+## ✨Connect with me:
 
 [<img align="left" alt="Jonny's_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="Jonny's_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
