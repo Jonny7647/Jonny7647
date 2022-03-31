@@ -10,11 +10,8 @@
 <a href="https://github.com/Jonny7647"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jonny7647&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Jonny's github stats" /></a>
 
 
-<a href="https://github.com/Jonny7647"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonny7647&layout=compact&theme=nord&hide_border=true" /></a> 
-
-<!--
 <a href="https://github.com/Jonny7647"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonny7647&layout=compact&theme=merko&hide_border=true" /></a>
--->
+
 
 <br>
 
