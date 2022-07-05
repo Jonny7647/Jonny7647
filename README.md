@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jonny's_CODE&fontSize=90)
 
 
-## 🌱Wecome to Joony's Code
+## 🌱Wecome to Jonny's Code
 - 🔭 I’m currently learning : <Code>Java</Code>,<Code>Solidity</Code>, <Code>Blockchain</Code>
 - 💬 Fun fact: I majored in electronics, but I like to study <Code>blockchain</Code>
 - 😄 Pronouns: <Code>Jonny</Code>, <Code>UEG</Code>
